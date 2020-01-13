@@ -1,0 +1,15 @@
+.myContainer {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.square {
+    width: 75px;
+    height: 75px;
+    background-color: black;
+    margin: 5px;
+    color: coral;
+    text-align: center;
+    line-height: 75px;
+    font-weight: bold;
+}
